@@ -15,5 +15,4 @@ It is responsive for Mobile device.
 
 
 
-### preview for Mobile Devices
 
